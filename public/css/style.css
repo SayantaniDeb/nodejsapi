@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav--car{
+    background-color: black;
+    padding: 20px;
+   font-size: 30px;
+   box-shadow: 0 5px 10px 11px lightgray;
+}
+.nav--car li{
+    color: aliceblue;
+    list-style-type: none;
+    
+}
+.nav--car ul{
+    display: flex;
+    justify-content: space-between;
+}
+section{
+    margin:20px;
+    padding: 50px;
+    font-size: 25px;
+}
